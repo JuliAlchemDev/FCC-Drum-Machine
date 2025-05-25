@@ -1,0 +1,26 @@
+{
+  "name": "drum-machine",
+  "version": "1.0.0",
+  "description": "Drum Machine project for FreeCodeCamp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliAlchemDev/FCC-Drum-Machine.git"
+  },
+  "author": "JuliAlchem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliAlchemDev/FCC-Drum-Machine/issues"
+  },
+  "homepage": "https://github.com/JuliAlchemDev/FCC-Drum-Machine#readme",
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+   "eslintConfig": {
+    "extends": "standard"
+  }
+}
+
