@@ -1,5 +1,7 @@
 # 🥁 Drum Machine - FreeCodeCamp Project
+
 🚀 [DEMO](https://julialchemdev.github.io/FCC-Drum-Machine/)
+
 Este proyecto es una **Drum Machine interactiva** construido con HTML, CSS y JavaScript puro, como parte del reto del [currículum Full Stack de FreeCodeCamp](https://www.freecodecamp.org/learn/full-stack-developer/lab-drum-machine/build-drum-machine).
 ## Vista previa
 
