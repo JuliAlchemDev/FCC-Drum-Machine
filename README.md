@@ -17,7 +17,7 @@ Este proyecto es una **Drum Machine interactiva** construido con HTML, CSS y Jav
 
 ## 📦 Cómo usar
 
-Puedes ver el proyecto funcionando aquí: **(añade el link si lo subes a GitHub Pages o Netlify)**  
+Puedes ver el proyecto funcionando aquí: 👉 [DEMO](https://julialchemdev.github.io/FCC-Drum-Machine/) 
 O simplemente clona el repo y abre `index.html` en tu navegador.
 
 ```bash
